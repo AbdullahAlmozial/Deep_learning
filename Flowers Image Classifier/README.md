@@ -16,5 +16,15 @@ this [Dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-* python library 
-  * df
+### IDE : Jupyter notebook
+
+* python libraries
+  * tensorflow
+  * sklearn
+  * numpy
+  * pandas
+  * matplotlib
+  
+  
+  
+ 
