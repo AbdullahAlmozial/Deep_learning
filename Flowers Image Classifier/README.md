@@ -11,3 +11,7 @@ Project train an image classifier to recognize different species of flowers. You
 You will be training using 102 different types of flowers, where there ~20 images per flower to train on.  Then you will use your trained classifier to see if you can predict the type for new images of the flowers.
 this dataset:
 http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
+
+
+http://github.com - automatic!
+[GitHub](http://github.com)
