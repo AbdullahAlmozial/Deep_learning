@@ -16,7 +16,5 @@ this [Dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+* python library 
+ * df
