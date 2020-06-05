@@ -1,11 +1,14 @@
-# Intro to Machine Learning - TensorFlow Project
+### Project Title
+Flowers_Image_Classifier project
 
-Project code for Udacity's Intro to Machine Learning with TensorFlow Nanodegree program. In this project, you will first develop code for an image classifier built with TensorFlow, then you will convert it into a command line application.
 
-In order to complete this project, you will need to use the GPU enabled workspaces within the classroom.  The files are all available here for your convenience, but running on your local CPU will likely not work well.
+### Description
+Keras/TensorFlow project done as part of the Udacity's Introduction to Machine Learning Nanodegree. It consists on a modified version of Google's MobileNet Convolutional Neural Network, modified with a last layer to adap it to a 102-class flower classifier.
 
-You should also only enable the GPU when you need it. If you are not using the GPU, please disable it so you do not run out of time!
+The classifier was trained with the oxford_flowers102 dataset from TensorFlow.
 
-### Data
+The saved model can be run from the predict.py script and can work with any image (it will try to classify it as one of the 102 flower classes that the model was trained on).
 
-The data for this project is quite large - in fact, it is so large you cannot upload it onto Github.  If you would like the data for this project, you will want download it from the workspace in the classroom.  Though actually completing the project is likely not possible on your local unless you have a GPU.  You will be training using 102 different types of flowers, where there ~20 images per flower to train on.  Then you will use your trained classifier to see if you can predict the type for new images of the flowers.
+
+
+
